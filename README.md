@@ -4,9 +4,9 @@
 
 I break code to build it better — four years of shipping production systems end to end, from police record platforms to cloud lab infrastructure and edtech marketplaces.
 
-🔭 Currently: Technical Lead at BloomSkillTech, building an edtech marketplace
-📦 Author of [**fastapi-querybuilder**](https://github.com/bhadri01/fastapi-querybuilder) — **16K+ downloads on PyPI**
-🌐 Portfolio: [bha3.me](https://bha3.me) · LinkedIn: [bhadrinathan-a](https://www.linkedin.com/in/bhadrinathan-a-90b8bb361)
+- 🔭 Currently: Technical Lead at BloomSkillTech, building an edtech marketplace
+- 📦 Author of [**fastapi-querybuilder**](https://github.com/bhadri01/fastapi-querybuilder) — **16K+ downloads on PyPI**
+- 🌐 Portfolio: [bha3.me](https://bha3.me) · LinkedIn: [bhadrinathan-a](https://www.linkedin.com/in/bhadrinathan-a-90b8bb361)
 
 ---
 
