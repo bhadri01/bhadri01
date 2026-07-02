@@ -49,11 +49,6 @@ I break code to build it better — four years of shipping production systems en
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Bhadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhadri01&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadri01&layout=compact&hide_border=true)
-
 ---
 
 💬 Always up for a chat about building products from scratch — reach me on [LinkedIn](https://www.linkedin.com/in/bhadrinathan-a-90b8bb361).
