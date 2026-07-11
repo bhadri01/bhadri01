@@ -5,6 +5,7 @@
 I break code to build it better — four years of shipping production systems end to end, from police record platforms to cloud lab infrastructure and edtech marketplaces.
 
 - 🔭 Currently: Technical Lead at BloomSkillTech, building an edtech marketplace
+- 🤖 Building RAG and agentic AI systems with LangChain, LangGraph & pgvector
 - 📦 Author of [**fastapi-querybuilder**](https://github.com/bhadri01/fastapi-querybuilder) — **16K+ downloads on PyPI**
 - 🌐 Portfolio: [bha3.me](https://bha3.me) · LinkedIn: [bhadrinathan-a](https://www.linkedin.com/in/bhadrinathan-a-90b8bb361)
 
@@ -14,6 +15,7 @@ I break code to build it better — four years of shipping production systems en
 
 - **[fastapi-querybuilder](https://github.com/bhadri01/fastapi-querybuilder)** — smart filtering, sorting & searching for FastAPI + SQLAlchemy. JSON-based filters with 14 operators, nested relationship queries, global search. 16K+ downloads, 18 releases, MIT.
 - **[fastapi_sse_events](https://github.com/bhadri01/fastapi_sse_events)** — server-sent events made simple for FastAPI.
+- **RAG Knowledge System** — Retrieval-Augmented Generation with pgvector semantic search, LangGraph agent orchestration, and an LLM evaluation harness.
 - **Cloud Labs Platform** — on-demand, browser-accessible dev environments with a WireGuard VPN layer and container orchestration.
 - **Crime Records CRM** — full-stack case management and timeline tracking system built for the Cyber Crime Police Station, Salem.
 - **Docker Stats Monitor** — real-time container CPU/memory/network dashboards.
@@ -34,6 +36,14 @@ I break code to build it better — four years of shipping production systems en
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Frontend**
 
