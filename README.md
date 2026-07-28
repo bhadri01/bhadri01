@@ -7,7 +7,7 @@ I build systems people trust with untrusted input — and tools other developers
 - 🔭 **Technical Lead** at BloomSkillTech — building a two-sided edtech marketplace
 - 🦀 Writing Rust where correctness has to be structural: sandboxes, filesystems, WireGuard
 - 📦 Author of [**fastapi-querybuilder**](https://github.com/bhadri01/fastapi-querybuilder) — **16K+ downloads on PyPI**
-- 🌐 [bha3.me](https://bha3.me) · [LinkedIn](https://www.linkedin.com/in/bhadrinathan-a-90b8bb361)
+- 🌐 [bha3.me](https://bha3.me) · [LinkedIn](https://www.linkedin.com/in/bhadri01)
 
 ---
 
