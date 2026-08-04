@@ -49,4 +49,4 @@ I build systems people trust with untrusted input — and tools other developers
 
 ---
 
-💬 Always up for a chat about building products from scratch — reach me on [LinkedIn](https://www.linkedin.com/in/bhadrinathan-a-90b8bb361) or through [bha3.in](https://bha3.in).
+💬 Always up for a chat about building products from scratch — reach me on [LinkedIn](https://www.linkedin.com/in/bhadri01) or through [bha3.in](https://bha3.in).
