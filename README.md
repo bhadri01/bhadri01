@@ -2,7 +2,7 @@
 
 **Software Engineer · Technical Lead · Salem, India**
 
-I build systems people trust with untrusted input — and tools other developers install. Four years shipping production software end to end, from a police records CRM to cloud lab infrastructure, and now leading the build of an edtech platform.
+I build systems people trust with untrusted input — and tools other developers install. 4+ years of experience shipping production software, from a police records CRM (as an intern) to cloud lab infrastructure, and now leading the build of an edtech platform.
 
 - 🔭 **Technical Lead** at BloomSkillTech — building a two-sided edtech marketplace
 - 🦀 Writing Rust where correctness has to be structural: sandboxes, filesystems, WireGuard
