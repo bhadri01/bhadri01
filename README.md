@@ -1,30 +1,43 @@
 # Hi, I'm Bhadri 👋
 
-**Backend Engineer · Technical Lead · Salem, India**
+**AI & Full-Stack Engineer · Lead Engineer · Salem, India**
 
-I build systems people trust with untrusted input — and tools other developers install. 4+ years of experience shipping production software, from a police records CRM (as an intern) to cloud lab infrastructure, and now leading the build of an edtech platform.
+I build AI applications and the full-stack systems behind them. I have 5+ years of software development experience, including an internship, spanning web platforms, real-time services, cloud labs and AI workflows.
 
-- 🔭 **Technical Lead** at BloomSkillTech — building a two-sided edtech marketplace
+- 🔭 **Lead Engineer** at BloomSkillTech — building a multi-tenant EdTech platform and RAG/multi-agent workflows with LangChain, LangGraph and MCP
+- ⚡ Reduced RAG response latency by **40%** under concurrent workloads; improved API throughput by **50%** using Redis caching and asynchronous queues
+- 🤝 Mentor **6+ engineers** and have trained **1,000+ students** across colleges
 - 🦀 Writing Rust where correctness has to be structural: sandboxes, filesystems, WireGuard
-- 📦 Author of [**fastapi-querybuilder**](https://github.com/bhadri01/fastapi-querybuilder) — **18K+ downloads on PyPI**
+- 📦 Author of [**fastapi-querybuilder**](https://github.com/bhadri01/fastapi-querybuilder) — [live PyPI download statistics](https://pepy.tech/projects/fastapi-querybuilder)
 - 🌐 [bha3.in](https://bha3.in) · [LinkedIn](https://www.linkedin.com/in/bhadri01)
 
 ---
 
 ## 🛠️ Skills
 
-<!--
-  Generated, not hand-written. `npx vite-node scripts/gen-profile-card.tsx` in
-  the portfolio repo reads the same src/data/skills.ts the website renders and
-  emits these two files, so this section cannot drift out of sync with bha3.in
-  the way a hand-maintained badge list does. Regenerate after changing a skill.
--->
+| Area | Tools and experience |
+| --- | --- |
+| AI applications | RAG, LangChain, LangGraph, MCP, LLM APIs, pgvector, Qdrant |
+| Backend & data | Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis/Valkey, Go, REST APIs, SSE, WebSockets |
+| Frontend & MERN | React, Next.js, TypeScript, JavaScript, Tailwind CSS, MongoDB, Express, Node.js |
+| Systems & delivery | Rust, Axum, Linux, Docker, Git, GitHub Actions, CI/CD, Nginx, Traefik, WireGuard |
+| Security | Burp Suite, Wireshark, Nmap, API security, Linux sandboxing, digital forensics, CTFs |
+| Engineering practice | System design, automated testing, code review, technical training, mentorship |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./skills-light.svg">
-  <img alt="Terminal-style profile card listing 59 technologies across languages, backend, AI, frontend, infrastructure and security" src="./skills-light.svg">
-</picture>
+## Experience
+
+| Period | Role |
+| --- | --- |
+| Jan 2025 – Present | **Lead Engineer — BloomSkillTech:** EdTech architecture, RAG/multi-agent pipelines, CI/CD and mentoring 6+ engineers |
+| May 2023 – Dec 2024 | **Senior Software Engineer — BloomSkillTech:** cloud labs, Docker workspaces, FastAPI services and Redis caching |
+| Dec 2022 – May 2023 | **Software Developer — BloomSkillTech:** law enforcement CRM with React, Go, PostgreSQL and Docker |
+| Aug 2021 – Dec 2022 | **Software Development Intern — Salem City Cyber Crime Police:** station website/database integration, maintenance and support |
+
+**Education:** B.E. Electronics and Communication Engineering, Muthayammal Engineering College, 2019–2023. Final-year project: gesture-controlled electronics for controlling electronic components through gestures.
+
+**Achievements:** Salem City Police Certificate of Appreciation (December 2021); TOM CTF first-place team; YUKTHI CTF third-place team. Professional chess player.
+
+[View my latest résumé (PDF)](https://github.com/bhadri01/portfolio/blob/main/public/Bhadrinathan_A_Resume.pdf) · [Portfolio](https://bha3.in) · [LinkedIn](https://www.linkedin.com/in/bhadri01)
 
 ---
 
@@ -38,7 +51,7 @@ I build systems people trust with untrusted input — and tools other developers
 
 **Open source**
 
-- **[fastapi-querybuilder](https://github.com/bhadri01/fastapi-querybuilder)** — filtering, sorting and search for FastAPI + SQLAlchemy. JSON filters with 14 operators, nested relationship joins, global search, pagination and soft-delete — generated into SQLAlchemy, never string-built. **18K+ downloads**, 15 tagged releases, MIT.
+- **[fastapi-querybuilder](https://github.com/bhadri01/fastapi-querybuilder)** — filtering, sorting and search for FastAPI + SQLAlchemy. JSON filters with 14 operators, nested relationship joins, global search, pagination and soft-delete — generated into SQLAlchemy, never string-built. MIT licensed. [Live download statistics](https://pepy.tech/projects/fastapi-querybuilder).
 - **[fastapi_sse_events](https://github.com/bhadri01/fastapi_sse_events)** — server-sent events for FastAPI, backed by Redis pub/sub so streams survive more than one server.
 
 **Platform & product**
