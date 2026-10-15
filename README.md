@@ -1,10 +1,10 @@
 # Hi, I'm Bhadri 👋
 
-**AI & Full-Stack Engineer · Lead Engineer · Salem, India**
+**AI & Full-Stack Engineer · Senior Software Engineer · Salem, India**
 
-I build AI applications and the full-stack systems behind them. I have 5+ years of software development experience, including an internship, spanning web platforms, real-time services, cloud labs and AI workflows.
+I build AI applications and the full-stack systems behind them. I have nearly 4 years of full-time professional experience since December 2022, excluding internship, spanning web platforms, real-time services, cloud labs and AI workflows.
 
-- 🔭 **Lead Engineer** at BloomSkillTech — building a multi-tenant EdTech platform and RAG/multi-agent workflows with LangChain, LangGraph and MCP
+- 🔭 **Senior Software Engineer** at BloomSkillTech — building a multi-tenant EdTech platform and RAG/multi-agent workflows with LangChain, LangGraph and MCP
 - ⚡ Reduced RAG response latency by **40%** under concurrent workloads; improved API throughput by **50%** using Redis caching and asynchronous queues
 - 🤝 Mentor **6+ engineers** and have trained **1,000+ students** across colleges
 - 🦀 Writing Rust where correctness has to be structural: sandboxes, filesystems, WireGuard
@@ -28,14 +28,14 @@ I build AI applications and the full-stack systems behind them. I have 5+ years 
 
 | Period | Role |
 | --- | --- |
-| Jan 2025 – Present | **Lead Engineer — BloomSkillTech:** EdTech architecture, RAG/multi-agent pipelines, CI/CD and mentoring 6+ engineers |
-| May 2023 – Dec 2024 | **Senior Software Engineer — BloomSkillTech:** cloud labs, Docker workspaces, FastAPI services and Redis caching |
-| Dec 2022 – May 2023 | **Software Developer — BloomSkillTech:** law enforcement CRM with React, Go, PostgreSQL and Docker |
-| Aug 2021 – Dec 2022 | **Software Development Intern — Salem City Cyber Crime Police:** station website/database integration, maintenance and support |
+| Jan 2025 – Present | **Senior Software Engineer — BloomSkillTech:** EdTech architecture, RAG/multi-agent pipelines, CI/CD and mentoring 6+ engineers |
+| May 2023 – Dec 2024 | **Software Engineer — BloomSkillTech:** cloud labs, Docker workspaces, FastAPI services and Redis caching |
+| Dec 2022 – May 2023 | **Associate Software Engineer — BloomSkillTech:** law enforcement CRM with React, Go, PostgreSQL and Docker |
+| Aug 2021 – Dec 2022 | **Software Engineer Intern — Salem City Cyber Crime Police:** station website/database integration, maintenance and support |
 
 **Education:** B.E. Electronics and Communication Engineering, Muthayammal Engineering College, 2019–2023. Final-year project: gesture-controlled electronics for controlling electronic components through gestures.
 
-**Achievements:** Salem City Police Certificate of Appreciation (December 2021); TOM CTF first-place team; YUKTHI CTF third-place team. Professional chess player.
+**Achievements:** Salem City Police Certificate of Appreciation (December 2021); TOM CTF first-place team; YUKTHI CTF third-place team. Rated chess player (FIDE 1612).
 
 [View my latest résumé (PDF)](https://github.com/bhadri01/portfolio/blob/main/public/Bhadrinathan_A_Resume.pdf) · [Portfolio](https://bha3.in) · [LinkedIn](https://www.linkedin.com/in/bhadri01)
 
