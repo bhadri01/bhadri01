@@ -5,6 +5,7 @@
 I build AI applications and the full-stack systems behind them. I have nearly 4 years of full-time professional experience since December 2022, excluding internship, spanning web platforms, real-time services, cloud labs and AI workflows.
 
 - 🔭 **Senior Software Engineer** at BloomSkillTech — building a multi-tenant EdTech platform and RAG/multi-agent workflows with LangChain, LangGraph and MCP
+- 🏗️ Designed core infrastructure and helped scale a client's EdTech platform to support **10,000+ users**
 - ⚡ Reduced RAG response latency by **40%** under concurrent workloads; improved API throughput by **50%** using Redis caching and asynchronous queues
 - 🤝 Mentor **6+ engineers** and have trained **1,000+ students** across colleges
 - 🦀 Writing Rust where correctness has to be structural: sandboxes, filesystems, WireGuard
@@ -18,9 +19,10 @@ I build AI applications and the full-stack systems behind them. I have nearly 4 
 | Area | Tools and experience |
 | --- | --- |
 | AI applications | RAG, LangChain, LangGraph, MCP, LLM APIs, pgvector, Qdrant |
-| Backend & data | Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis/Valkey, Go, REST APIs, SSE, WebSockets |
-| Frontend & MERN | React, Next.js, TypeScript, JavaScript, Tailwind CSS, MongoDB, Express, Node.js |
-| Systems & delivery | Rust, Axum, Linux, Docker, Git, GitHub Actions, CI/CD, Nginx, Traefik, WireGuard |
+| AI-assisted development | Claude, Codex, GitHub Copilot, Antigravity |
+| Backend & data | Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis/Valkey, TimescaleDB, Celery, MinIO/S3, Go, REST APIs, SSE, WebSockets |
+| Frontend & MERN | React, Next.js, React Native, TypeScript, JavaScript, Tailwind CSS, MongoDB, Express, Node.js |
+| Systems & delivery | Rust, Axum, Linux, Docker, Git, GitHub, GitLab, Jira, GitHub Actions, CI/CD, Pytest, Nginx, Traefik, WireGuard |
 | Security | Burp Suite, Wireshark, Nmap, API security, Linux sandboxing, digital forensics, CTFs |
 | Engineering practice | System design, automated testing, code review, technical training, mentorship |
 
@@ -28,7 +30,7 @@ I build AI applications and the full-stack systems behind them. I have nearly 4 
 
 | Period | Role |
 | --- | --- |
-| Jan 2025 – Present | **Senior Software Engineer — BloomSkillTech:** EdTech architecture, RAG/multi-agent pipelines, CI/CD and mentoring 6+ engineers |
+| Jan 2025 – Present | **Senior Software Engineer — BloomSkillTech:** helped scale a client EdTech platform to 10,000+ users; RAG/multi-agent pipelines, CI/CD and mentoring 6+ engineers |
 | May 2023 – Dec 2024 | **Software Engineer — BloomSkillTech:** cloud labs, Docker workspaces, FastAPI services and Redis caching |
 | Dec 2022 – May 2023 | **Associate Software Engineer — BloomSkillTech:** law enforcement CRM with React, Go, PostgreSQL and Docker |
 | Aug 2021 – Dec 2022 | **Software Engineer Intern — Salem City Cyber Crime Police:** station website/database integration, maintenance and support |
